@@ -1,8 +1,8 @@
-# Group TEAM_NUMBER
-Group Name: TEAM_NAME
+# Group 8
+Group Name: GoalKeepers
 
 [MVP Link](http://cs196.cs.illinois.edu)
 
-Team Members: STUDENTS_NETIDS
+Team Members: Gloria, Rishi, Ayush, Karim
 
-Project Manager: PM_NETID
+Project Manager: Dhruv
