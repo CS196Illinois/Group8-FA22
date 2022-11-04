@@ -1,4 +1,0 @@
-goalName, goalStatus, goalNotes
-test1, stuff, blah
-test2, foo, bar
-test3, z, x
