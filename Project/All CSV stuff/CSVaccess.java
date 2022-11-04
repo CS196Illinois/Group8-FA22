@@ -18,7 +18,7 @@ import java.util.List;
 public class ChangesToCSV {
 	//YOU CAN EDIT THE PATH HERE, IT'S A STRING THAT GETS PASSED IN, IF YOU CAN FIGURE OUT A WAY TO GET THE PROJECT'S 
 	//RELATIVE PATH TO WORK THAT WOULD BE AWESOME!
-    private static final Path path = Paths.get("/Users/xy/Desktop/TestingProject/CSVxxx/Project/all-csv-stuff/csv.txt");
+    private static final Path path = Paths.get("/Users/xy/Desktop/TestingProject/CSV/Project/all-csv-stuff/csv.txt");
     
     //input is the goal name, goal status is incomplete by default, make sure the space remains after `false, ` as a notes placeholder
     private static int idNumber = 1;
